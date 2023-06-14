@@ -1,7 +1,5 @@
-------------
-#FactoryMethodApp
-***
-------------
-Short description about the project.
-------------
-
+- - - - - - - - - - - - - - - - - - - -
+# FactoryMethodApp
+*** 
+Sample application using the Factory Method creational design pattern
+- - - - - - - - - - - - - - - - - - - -
